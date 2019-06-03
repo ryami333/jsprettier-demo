@@ -1,0 +1,8 @@
+{
+  "name": "sublimeprettier-demo",
+  "version": "1.0.0",
+  "description": "Project to demonstrate issue with config inheritance with JSPrettier",
+  "main": "index.js",
+  "author": "mitch@mitch-ryan.com",
+  "license": "MIT"
+}
