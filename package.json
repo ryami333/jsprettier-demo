@@ -4,5 +4,8 @@
   "description": "Project to demonstrate issue with config inheritance with JSPrettier",
   "main": "index.js",
   "author": "mitch@mitch-ryan.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.17.1"
+  }
 }
